@@ -12,3 +12,5 @@ Focused on solving real business problems by turning raw data into answers:
 - Identified top customers and revenue drivers
 - Analyzed product and category performance
 - Evaluated sales trends across locations
+- https://1drv.ms/u/c/b9e44974419f8320/IQC2iyrgwPRhQ7NompbvHmgdAcr-DHacO4-hxnfxymah1Jo?e=fQsbnl
+- 
