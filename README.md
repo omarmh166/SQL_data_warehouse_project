@@ -13,4 +13,4 @@ Focused on solving real business problems by turning raw data into answers:
 - Analyzed product and category performance
 - Evaluated sales trends across locations
 - https://1drv.ms/u/c/b9e44974419f8320/IQC2iyrgwPRhQ7NompbvHmgdAcr-DHacO4-hxnfxymah1Jo?e=fQsbnl
-- 
+- https://app.powerbi.com/links/s80zKechkY?ctid=2c5ee638-a963-49c0-ac26-828dd9b78d5e&pbi_source=linkShare
