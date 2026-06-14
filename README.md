@@ -45,6 +45,6 @@ The business generated $29.4M in total revenue from 27,658 orders placed by 18,4
 
 SALES TRENDS:
 
--Revenue grew from $7.1M (2011) to $16.4M (2013), with 2013 as the clear breakout year — order volume rose +551% year-over-year.
--However, Average Order Value fell from ~$3,200 (2011) to ~$770 (2013). This signals a deliberate mix shift: the business moved from a small number of high-value bike orders toward a large volume of lower-value accessory orders — expanding the customer base rather than the basket size.
--Sales are highly seasonal, peaking in December ($3.2M) and November ($3.0M), consistent with holiday demand, with a secondary mid-year lift in June ($2.9M).
+- Revenue grew from $7.1M (2011) to $16.4M (2013), with 2013 as the clear breakout year — order volume rose +551% year-over-year.
+- However, Average Order Value fell from ~$3,200 (2011) to ~$770 (2013). This signals a deliberate mix shift: the business moved from a small number of high-    value bike orders toward a large volume of lower-value accessory orders — expanding the customer base rather than the basket size.
+- Sales are highly seasonal, peaking in December ($3.2M) and November ($3.0M), consistent with holiday demand, with a secondary mid-year lift in June ($2.9M).
