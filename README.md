@@ -38,13 +38,13 @@ Before analysis, quality-control checks were run on every table — verifying ro
 
 Executive Summary
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Overview of Findings
+**Overview of Findings**
 
 The business generated $29.4M in total revenue from 27,658 orders placed by 18,484 customers, producing $12.1M in gross profit at a healthy 41.1% margin. Revenue is strong but highly concentrated: two countries account for nearly two-thirds of all sales, and growth in the most recent full year came from a clear strategic shift toward higher-volume, lower-value orders. The sections below break down where the money comes from — and where the next opportunities are.
 
 <img width="2036" height="1144" alt="Screenshot 2026-06-14 175442" src="https://github.com/user-attachments/assets/5f83809c-5196-4f94-ad47-773fba2e5e11" />
 
-Sales Trends:
+**Sales Trends:**
 
 - Revenue grew from $7.1M (2011) to $16.4M (2013), with 2013 as the clear breakout year — order volume rose +551% year-over-year.
 - However, Average Order Value fell from ~$3,200 (2011) to ~$770 (2013). This signals a deliberate mix shift: the business moved from a small number of high-    value bike orders toward a large volume of lower-value accessory orders — expanding the customer base rather than the basket size.
@@ -52,8 +52,10 @@ Sales Trends:
 - 
 <img width="2044" height="1138" alt="Screenshot 2026-06-14 183304" src="https://github.com/user-attachments/assets/a46a0e87-ac4f-474c-bbd3-281b870ec54b" />
 
-Product Performance:
+**Product Performance:**
 
 - The catalog is less concentrated than it looks — the top 10 products make up only 42.5% of revenue, meaning no single product carries the business.
 - Revenue is dominated by two product families: Mountain-200 and Road-150 bikes, which fill every one of the top 10 revenue spots.
 - The single best-selling product, Mountain-200 Black (46), generated $1.37M (4.7% of revenue).
+
+  RankProductRevenue% of Total1Mountain-200 Black, 46$1.37M4.7%2Mountain-200 Black, 42$1.36M4.6%3Mountain-200 Silver, 38$1.34M4.6%…(top 10 combined)$12.5M42.5%
