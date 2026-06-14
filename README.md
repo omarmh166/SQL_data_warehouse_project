@@ -34,13 +34,14 @@ The data warehouse follows the Medallion Architecture:
 - Gold Layer — business-ready data modeled into the star schema above, optimized for reporting and analytics.
 
 
-Before analysis, quality-control checks were run on every table — verifying row counts, key integrity between fact and dimensions, duplicate orders, null handling, and value ranges.
+Before analysis, quality-control checks were run on every table — verifying row counts, key integrity between fact and dimensions, duplicate orders, null handling, and value ranges. The SQL queries utilized to inspect and preform quality checks can be found →  [`scripts`](./scripts) folder
 
 Executive Summary
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Overview of Findings**
 
-The business generated $29.4M in total revenue from 27,658 orders placed by 18,484 customers, producing $12.1M in gross profit at a healthy 41.1% margin. Revenue is strong but highly concentrated: two countries account for nearly two-thirds of all sales, and growth in the most recent full year came from a clear strategic shift toward higher-volume, lower-value orders. The sections below break down where the money comes from — and where the next opportunities are.
+The business generated $29.4M in total revenue from 27,658 orders placed by 18,484 customers, producing $12.1M in gross profit at a healthy 41.1% margin. Revenue is strong but highly concentrated: two countries account for nearly two-thirds of all sales, and growth in the most recent full year came from a clear strategic shift toward higher-volume, lower-value orders. The sections below break down where the money comes from — and where the next opportunities are.The entire interactive dashboard can be downloaded → [![here](https://img.shields.io/badge/View-Live%20Dashboard-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/links/s80zKechkY?ctid=2c5ee638-a963-49c0-ac26-828dd9b78d5e&pbi_source=linkShare)
+
 
 <img width="2036" height="1144" alt="Screenshot 2026-06-14 175442" src="https://github.com/user-attachments/assets/5f83809c-5196-4f94-ad47-773fba2e5e11" />
 
