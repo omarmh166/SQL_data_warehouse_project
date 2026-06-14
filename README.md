@@ -1,5 +1,5 @@
 Project Background
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Noon is a large online retail marketplace selling products across six international markets. The company holds significant transactional, customer, and product data that had been underused for decision-making.
 
 This project builds the full analytics pipeline behind that data — from raw files, to a clean modeled data warehouse, to an interactive dashboard — in order to uncover the insights that improve commercial performance.
