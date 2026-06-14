@@ -58,4 +58,22 @@ The business generated $29.4M in total revenue from 27,658 orders placed by 18,4
 - Revenue is dominated by two product families: Mountain-200 and Road-150 bikes, which fill every one of the top 10 revenue spots.
 - The single best-selling product, Mountain-200 Black (46), generated $1.37M (4.7% of revenue).
 
-  RankProductRevenue% of Total1Mountain-200 Black, 46$1.37M4.7%2Mountain-200 Black, 42$1.36M4.6%3Mountain-200 Silver, 38$1.34M4.6%…(top 10 combined)$12.5M42.5%
+
+**Geographic & Currency Performance:**
+
+- Revenue is heavily concentrated in two markets: the United States (32%, $9.4M) and Australia (31%, $9.1M) together drive 63% of total revenue.
+- The remaining four markets — UK (11.5%), Germany (9.9%), France (9.0%), and Canada (6.7%) — represent a meaningful but underdeveloped growth base.
+- By currency, US Dollar (50%) and Australian Dollar (31%) mirror the country concentration, while the Euro-zone currencies (Deutsche Mark, French Franc) together account for under 1.5%, suggesting unrealized potential in those markets.
+
+<img width="1650" height="530" alt="Screenshot 2026-06-13 232524" src="https://github.com/user-attachments/assets/55711197-d99a-4548-bb7b-f00420058bfc" />
+
+Recommendations
+-
+Based on the insights above, the following actions are recommended:
+
+
+- Reduce geographic concentration risk. With 63% of revenue from just two countries, invest marketing and logistics in the underpenetrated European markets (Germany, France), where currency share is under 1.5% despite established demand.
+- Lean into the high-volume accessory strategy. The 2013 shift toward smaller, more frequent orders grew the customer base dramatically. Double down with cross-sell and bundle offers that increase order frequency, while testing upsells to lift the now-lower AOV.
+- Protect and grow the core bike families. Mountain-200 and Road-150 carry the top of the revenue chart. Ensure inventory and promotion priority for these families, and analyze their profit margin (cost data is available) to confirm they are also the most profitable, not just the highest-grossing.
+- Capitalize on seasonality. With clear November–December peaks, concentrate marketing spend and stock ahead of Q4, and build a mid-year (June) campaign to reinforce the secondary peak.
+- Activate customer segmentation. Use the demographic and segment data to run targeted campaigns — re-engaging high-income segments with premium products and nurturing lower-value, high-frequency buyers toward repeat purchases.
