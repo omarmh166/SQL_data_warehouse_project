@@ -41,16 +41,18 @@ Executive Summary
 Overview of Findings
 
 The business generated $29.4M in total revenue from 27,658 orders placed by 18,484 customers, producing $12.1M in gross profit at a healthy 41.1% margin. Revenue is strong but highly concentrated: two countries account for nearly two-thirds of all sales, and growth in the most recent full year came from a clear strategic shift toward higher-volume, lower-value orders. The sections below break down where the money comes from — and where the next opportunities are.
+
 <img width="2036" height="1144" alt="Screenshot 2026-06-14 175442" src="https://github.com/user-attachments/assets/5f83809c-5196-4f94-ad47-773fba2e5e11" />
 
-SALES TRENDS:
+Sales Trends:
 
 - Revenue grew from $7.1M (2011) to $16.4M (2013), with 2013 as the clear breakout year — order volume rose +551% year-over-year.
 - However, Average Order Value fell from ~$3,200 (2011) to ~$770 (2013). This signals a deliberate mix shift: the business moved from a small number of high-    value bike orders toward a large volume of lower-value accessory orders — expanding the customer base rather than the basket size.
 - Sales are highly seasonal, peaking in December ($3.2M) and November ($3.0M), consistent with holiday demand, with a secondary mid-year lift in June ($2.9M).
+- 
 <img width="2044" height="1138" alt="Screenshot 2026-06-14 183304" src="https://github.com/user-attachments/assets/a46a0e87-ac4f-474c-bbd3-281b870ec54b" />
-Product Performance:
 
+Product Performance:
 
 - The catalog is less concentrated than it looks — the top 10 products make up only 42.5% of revenue, meaning no single product carries the business.
 - Revenue is dominated by two product families: Mountain-200 and Road-150 bikes, which fill every one of the top 10 revenue spots.
