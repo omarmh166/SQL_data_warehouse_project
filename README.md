@@ -7,10 +7,10 @@ This project builds the full analytics pipeline behind that data — from raw fi
 Insights and recommendations are delivered across four key areas:
 
 
-Sales Trends Analysis — historical revenue, order volume, and Average Order Value (AOV), including year-over-year growth and seasonality.
-Product Performance — which products and product families drive revenue and profit, and how concentrated the catalog is.
-Geographic & Currency Performance — sales by country and currency, and the concentration risk that comes with it.
-Customer Insights — customer base composition and segmentation.
+- Sales Trends Analysis — historical revenue, order volume, and Average Order Value (AOV), including year-over-year growth and seasonality.
+- Product Performance — which products and product families drive revenue and profit, and how concentrated the catalog is.
+- Geographic & Currency Performance — sales by country and currency, and the concentration risk that comes with it.
+- Customer Insights — customer base composition and segmentation.
 
 
 Explore the project:
