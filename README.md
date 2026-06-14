@@ -1,16 +1,23 @@
-# SQL_data_warehouse_project
-building a modern data warehouse with SQL server, data modeling, and analytics.
+Project Background
 
-- Integrated multiple datasets (customers, products, sales, locations, categories)
-  
-- Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
-- Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
-- Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
+Noon is a large online retail marketplace selling products across six international markets. The company holds significant transactional, customer, and product data that had been underused for decision-making.
 
-Focused on solving real business problems by turning raw data into answers:
+This project builds the full analytics pipeline behind that data — from raw files, to a clean modeled data warehouse, to an interactive dashboard — in order to uncover the insights that improve commercial performance.
 
-- Identified top customers and revenue drivers
-- Analyzed product and category performance
-- Evaluated sales trends across locations
-- https://1drv.ms/u/c/b9e44974419f8320/IQC2iyrgwPRhQ7NompbvHmgdAcr-DHacO4-hxnfxymah1Jo?e=fQsbnl
+Insights and recommendations are delivered across four key areas:
+
+
+Sales Trends Analysis — historical revenue, order volume, and Average Order Value (AOV), including year-over-year growth and seasonality.
+Product Performance — which products and product families drive revenue and profit, and how concentrated the catalog is.
+Geographic & Currency Performance — sales by country and currency, and the concentration risk that comes with it.
+Customer Insights — customer base composition and segmentation.
+
+
+Explore the project:
+
+
+The SQL data warehouse (Bronze / Silver / Gold layers and modeling) → SQL Data Warehouse repo
+The interactive Power BI report → [![View Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/links/s80zKechkY?ctid=2c5ee638-a963-49c0-ac26-828dd9b78d5e&pbi_source=linkShare)
+
+The SQL queries used to build and analyze the data → /sql/ (link your query files here)
 - https://app.powerbi.com/links/s80zKechkY?ctid=2c5ee638-a963-49c0-ac26-828dd9b78d5e&pbi_source=linkShare
