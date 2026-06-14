@@ -29,9 +29,9 @@ The analytical layer is modeled as a star schema: one central fact table surroun
 The data warehouse follows the Medallion Architecture:
 
 
-Bronze Layer — raw data ingested as-is from source CSV files into SQL Server.
-Silver Layer — cleansing, standardization, and normalization to make the data analysis-ready.
-Gold Layer — business-ready data modeled into the star schema above, optimized for reporting and analytics.
+- Bronze Layer — raw data ingested as-is from source CSV files into SQL Server.
+- Silver Layer — cleansing, standardization, and normalization to make the data analysis-ready.
+- Gold Layer — business-ready data modeled into the star schema above, optimized for reporting and analytics.
 
 
 Before analysis, quality-control checks were run on every table — verifying row counts, key integrity between fact and dimensions, duplicate orders, null handling, and value ranges.
@@ -48,3 +48,10 @@ SALES TRENDS:
 - Revenue grew from $7.1M (2011) to $16.4M (2013), with 2013 as the clear breakout year — order volume rose +551% year-over-year.
 - However, Average Order Value fell from ~$3,200 (2011) to ~$770 (2013). This signals a deliberate mix shift: the business moved from a small number of high-    value bike orders toward a large volume of lower-value accessory orders — expanding the customer base rather than the basket size.
 - Sales are highly seasonal, peaking in December ($3.2M) and November ($3.0M), consistent with holiday demand, with a secondary mid-year lift in June ($2.9M).
+<img width="2044" height="1138" alt="Screenshot 2026-06-14 183304" src="https://github.com/user-attachments/assets/a46a0e87-ac4f-474c-bbd3-281b870ec54b" />
+Product Performance:
+
+
+- The catalog is less concentrated than it looks — the top 10 products make up only 42.5% of revenue, meaning no single product carries the business.
+- Revenue is dominated by two product families: Mountain-200 and Road-150 bikes, which fill every one of the top 10 revenue spots.
+- The single best-selling product, Mountain-200 Black (46), generated $1.37M (4.7% of revenue).
