@@ -20,6 +20,9 @@ The SQL data warehouse to build and analyze(Bronze / Silver / Gold layers and mo
 
 The interactive Power BI report → [![View Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/links/s80zKechkY?ctid=2c5ee638-a963-49c0-ac26-828dd9b78d5e&pbi_source=linkShare)
 
+Data Structure & Initial Checks
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+The analytical layer is modeled as a star schema: one central fact table surrounded by four dimension tables, for a total of 79,512 records.
 
 <img width="2558" height="1216" alt="Screenshot 2026-06-13 235954" src="https://github.com/user-attachments/assets/cce7898f-e8ec-45f5-bce9-9ec5b9488ac3" />
 
